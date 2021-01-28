@@ -5,6 +5,7 @@ import Footer from "./components/Footer";
 import Scenery from "./assets/bg3.jpg"
 
 function App() {
+  console.log(Scenery)
   return (
     <div className="App">
       <Header />
